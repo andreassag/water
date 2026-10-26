@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Archival Notice**: This repository is complete, archived, and in read-only mode. It is preserved for educational and reference purposes; no further active maintenance, feature additions, or pull requests will be processed.
+> **Archive Notice**: This project is an educational and reference implementation of SIMD-accelerated Smith-Waterman sequence alignment in C. It is finished and archived; no active maintenance or feature development is planned.
 
 # SIMD Smith-Waterman in C
 
